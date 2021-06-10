@@ -1,0 +1,3 @@
+y we gather data for our data science project and end up gathering a large set of features. Some of these features (known as variables) are not as important as others. Sometimes the features themselves are correlated with each other. And occasionally we end up over-fitting the problem by introducing too many features. The large number of features make the data set sparse.
+
+Furthermore, it takes a much larger space to store a data set with a large number of features. Moreover, it can get very difficult to analyse and visualize a data set with a large number of dimensions.
